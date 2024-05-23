@@ -23,7 +23,7 @@ section{
     margin: auto;
     max-width: 500px;
     position: relative;
-    top: 300px;
+    top: 100px;
 }
 .main-text{
     display: flex;
